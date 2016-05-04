@@ -98,7 +98,7 @@ class PythonInterface:
             #altimiter = XPLMGetDataf(self.PilotAltDataref)
             #self.move(3, int(altimiter))
             
-            aInput = self.s.readline()
+           ''' aInput = self.s.readline()
             self.s.flushInput()
             self.s.flushOutput()
             print aInput
@@ -117,7 +117,7 @@ class PythonInterface:
             #Rthrot = float(alts1[6])
             
             
-            altList = [lalt, ralt, 0, 0, 0, 0, 0, 0]
+        	altList = [lalt, ralt, 0, 0, 0, 0, 0, 0]
             Alt = XPLMFindDataRef("sim/cockpit2/electrical/generator_on")
             ignitionList = [lInig, rInig, 0, 0, 0, 0, 0, 0]
             Ignition = XPLMFindDataRef("sim/cockpit2/engine/actuators/ignition_key")
@@ -139,15 +139,14 @@ class PythonInterface:
            	XPLMSetDatai(PitotHeat, lPitotHeat)
            	XPLMSetDatai(PitotHeat2, rPitotHeat) 
             elif (Skey != 8):
-           	pass
-            
-            
-            airspeed1 = XPLMGetDataf(self.airspeedDataref)
+           	pass'''
+            airspeed1 = XPLMGetDataf(self.airspeedDataref);
     #       steps = airspeed1/0.555
  #          difference = steps - self.laststeps
  #          self.laststeps = stepsw
             #print airspeed1
-            self.s.write(chr(airspeed1);
+            self.s.write(airspeed1);
+            print airspeed1;
             #self.send(int(airspeed1))
            	
         except serial.SerialException:

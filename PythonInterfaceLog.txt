@@ -49148,3 +49148,428 @@ Searching for Standard Scripts
                                ^
 SyntaxError: invalid syntax
 'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 150
+    self.s.write(chr(airspeed1);
+                               ^
+SyntaxError: invalid syntax
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 150
+    self.s.write(chr(airspeed1);
+                               ^
+SyntaxError: invalid syntax
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_ArduinoInterfaceV22.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_ArduinoInterfaceV22.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_ArduinoInterfaceV22.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_ArduinoInterfaceV22.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_ArduinoInterfaceV22.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 120
+    altList = [lalt, ralt, 0, 0, 0, 0, 0, 0]
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 120
+    altList = [lalt, ralt, 0, 0, 0, 0, 0, 0]
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 120
+    altList = [lalt, ralt, 0, 0, 0, 0, 0, 0]
+          ^
+SyntaxError: invalid syntax
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 120
+    altList = [lalt, ralt, 0, 0, 0, 0, 0, 0]
+          ^
+SyntaxError: invalid syntax
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 145
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 144
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+    ^
+IndentationError: unexpected unindent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 144
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+            ^
+SyntaxError: invalid syntax
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 143
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 143
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 143
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 143
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 143
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 143
+    airspeed1 = XPLMGetDataf(self.airspeedDataref)
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] running on the darwin platform
+Before Modules Init
+Using path below for script path
+/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "/Volumes/Macintosh_HD/X-Plane 10/Resources/plugins/PythonScripts/PI_ArduinoInterfaceV22.py", line 143
+    airspeed1 = XPLMGetDataf(self.airspeedDataref);
+    ^
+IndentationError: unexpected indent
+'PI_ArduinoInterfaceV22' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
